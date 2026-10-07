@@ -21,7 +21,7 @@ htmlcov/
 
 # Local data
 sample_data/private/
-.txt
+pr1.txt
 
 # Editor and OS files
 .idea/
