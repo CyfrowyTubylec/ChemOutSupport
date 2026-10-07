@@ -1,4 +1,4 @@
-# ChemSupport
+# ChemOutSupport
 
 A scientific data pipeline for computational chemistry outputs.
 
